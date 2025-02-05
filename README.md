@@ -9,19 +9,21 @@ My favourite computing pursuits are web dev, Raspberry Pi projects, and retro co
 - 🌱 Currently studying: AZ-900
 - ⚡ Current OS: Garuda w/ Hyprland
 - 💫 Contact me via <a href="https://www.linkedin.com/in/mia-coupland/">LinkedIn</a>
-- 🌌 [My Github Resume](https://resume.github.io/?miacoupland)
 
-## Education and experience
-- BA(Hons) in History (2017-2020) @ The University of Manchester
-- MSc in Computer Science (2020-2022) @ Newcastle University
-
+## Experience
+- Software Developer @ Renaissance (June 2023 - Present)
 - Software Developer @ Cambridge University Press & Assessment (November 2021 - June 2023)
-- Software Developer @ Renaissance (June 2023 - October 2024)
-- Senior Software Developer @ Renaissance (October 2024 - Present)
+- Software Developer @ Procter & Gamble (June 2021 - October 2021)
+
+## Education
+- MSc in Computer Science (2020-2022) @ Newcastle University
+- BA(Hons) in History (2017-2020) @ The University of Manchester
+
 
 ## Skills, Tools, & Technologies
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-%C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -37,4 +39,5 @@ My favourite computing pursuits are web dev, Raspberry Pi projects, and retro co
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Storybook](https://img.shields.io/badge/storybook-%FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
