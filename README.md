@@ -2,12 +2,10 @@
 
 My name is Mia and I'm based in the North East of England. I moved here to complete my MSc in Computer Science and began working as a Software Developer in 2021. Day to day I am a web developer, primarily using Angular and .NET.
 
-I have experience of Java at university, and I have studied Python, Lua, and various other technologies for fun.
-
 My favourite computing pursuits are web dev, Raspberry Pi projects, and retro console homebrews.
 
 - 🌱 Currently studying: AZ-900
-- ⚡ Current OS: Garuda w/ Hyprland
+- ⚡ Current OS: Arch w/ Hyprland
 - 💫 Contact me via <a href="https://www.linkedin.com/in/mia-coupland/">LinkedIn</a>
 
 ## Experience
