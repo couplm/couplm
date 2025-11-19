@@ -3,7 +3,7 @@ My name is Mia and I'm based in the North East of England. I moved here to compl
 My favourite computing pursuits are web dev, Raspberry Pi projects, and retro console homebrews.
 
 - 🌱 Currently studying: React
-- ⚡ Current OS: Arch w/ Hyprland
+- ⚡ Current OS: Arch w/ Sway
 - 💫 Contact me via <a href="https://www.linkedin.com/in/mia-coupland/">LinkedIn</a>
 
 ## Experience
