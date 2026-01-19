@@ -1,5 +1,5 @@
 My name is Mia and I'm a software developer, primarily using Angular and .NET.
 
-- 🔭 My favourite computing pursuits are web dev, Raspberry Pi projects, DIY mechanical keyboards, and retro console homebrews
+- 🔭 My favourite computing pursuits are web dev, Raspberry Pi projects, DIY mechanical keyboards, and emulation
 - 🌱 Currently studying: React
-- ⚡ Current OS: Arch w/ Sway
+- ⚡ Current OS: Arch w/ Sway & NixOS w/ GNOME
